@@ -3,7 +3,7 @@
 <!--Properties section (above): this is required in all topics. Please fill it out!-->
 
 <!--The next line, with one pound sign at the beginning, is the page title--> 
-# H1 (Article Title) 
+# H1 (Title) 
 
 <p> Intro paragraph: Lorem ipsum dolor amet, consectetur adipiscing elit. Phasellus interdum nulla risus, lacinia porta nisl imperdiet sed. Mauris dolor mauris, tempus sed lacinia nec, euismod non felis. Nunc semper porta ultrices. Maecenas neque nulla, condimentum vitae ipsum sit amet, dignissim aliquet nisi.
 
